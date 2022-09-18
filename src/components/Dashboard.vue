@@ -259,6 +259,16 @@
                 <v-col cols="12" sm="12">
                     <h4 class="text-center black--text mt-10">SUBSCRIBE TO OUR NEWSLETTER</h4>
                 </v-col>
+                <v-col cols="12" sm="12">
+                    <h6 class="text-center grey--text">
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus adipisci delectus sint sunt sapiente vero unde provident, laboriosam magnam quis quibusdam iure nobis ea ipsum, optio ab eligendi possimus minus.
+                    </h6>                
+                </v-col>
+                <v-col cols="12" sm="12">
+                    <v-card flat color="transparent" class="d-flex justify-center">
+                        <v-text-field placeholder="Enter Your Email" rounded class="shrink" background-color="grey" filled append-icon="mdi-email-outline" dense></v-text-field>
+                    </v-card>
+                </v-col>
             </v-row>
         </v-card>
     </v-container>
